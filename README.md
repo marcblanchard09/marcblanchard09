@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marcblanchard09
+- 👋 Hi, I’m <i>@marcblanchard09</i>
 - 👀 I’m interested in Robotics and IOS Application
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on projects that involve communication.
