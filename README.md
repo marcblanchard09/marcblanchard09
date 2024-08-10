@@ -1,8 +1,8 @@
-- 👋 Hi, I’m <h1 style="color: crimson"><i>@marcblanchard09</i></h1>
+##Hi, my name is #Marc Blanchard
 - 👀 I’m interested in <b>Robotics</b> and <b>IOS Application</b>
 - 🌱 I’m currently learning:
 - <ul>
-  <li>Swift</li>
+  **bold**<li>Swift</li>
   <li>SwiftUI</li>
   <li>Core OS</li>
   <li>iOS Architecture</li>
