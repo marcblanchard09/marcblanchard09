@@ -4,5 +4,5 @@
 </div>
 
 - 🔭 I’m currently working on Bridgeport, CT
-- 🌱 I’m currently learning **Swift, MySQL, Python
+- 🌱 I’m currently learning **Swift**, MySQL, Python
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcblanchard09&show_icons=true&locale=en" alt="marcblanchard09" /></p>
